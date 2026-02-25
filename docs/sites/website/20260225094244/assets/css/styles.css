@@ -23,7 +23,7 @@
     --spacing-xxl: 56px;
 
     --font-body: 'Inter', sans-serif;
-    --font-display: 'Unica One', cursive;
+    --font-display: 'Inter', sans-serif;
 
     --type-h1: clamp(2.8rem, 6vw, 4.5rem);
     --type-h2: clamp(2.2rem, 4.5vw, 3.5rem);
